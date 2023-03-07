@@ -1,0 +1,46 @@
+{
+    "name": "Adithyan",
+    "DOB": "02/09/1989",
+    "Father Name": "Sivaraman",
+    "email": "adi.mrmark@gmail.com",
+    "Address": "virugambakkam,chennai-600092",
+    "Education": [
+        "10th",
+        "12th",
+        "Bcom",
+        "CA-Inter"
+    ],
+    "Work Experience": [
+        {
+            "Article ship": "3.5years",
+            "Audit": "7.5 years"
+        }
+    ],
+    "Work Exposure": [
+        "Statutory audit",
+        "Internal Audit",
+        "GST Audit",
+        "MIS",
+        "Tax Audit",
+        "SRS preparation",
+        "Manual Testing"
+    ],
+    "Software Skills": [
+        "Tally",
+        "SAP",
+        "Focus ERP",
+        "Excel",
+        "MSSQL",
+        "MYSQL",
+        "Javascript",
+        "HTML/CSS",
+        "PHP",
+        "Computax",
+        "Winman"
+    ],
+    "Languages Known": [
+        "Tamil",
+        "English",
+        "Hindi"
+    ]
+}
